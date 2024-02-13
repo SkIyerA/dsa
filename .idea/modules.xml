@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Array/Array.iml" filepath="$PROJECT_DIR$/Array/Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BinarySearchProblems/BinarySearchProblems.iml" filepath="$PROJECT_DIR$/BinarySearchProblems/BinarySearchProblems.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOPS/First/First.iml" filepath="$PROJECT_DIR$/OOPS/First/First.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinkedList/LinkedList.iml" filepath="$PROJECT_DIR$/LinkedList/LinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOPS/OOPS.iml" filepath="$PROJECT_DIR$/OOPS/OOPS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PatternQuestions/PatternQuestions.iml" filepath="$PROJECT_DIR$/PatternQuestions/PatternQuestions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recursion dsa/Recurssion/RecurssionSorting.iml" filepath="$PROJECT_DIR$/recursion dsa/Recurssion/RecurssionSorting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sorting/Sorting.iml" filepath="$PROJECT_DIR$/Sorting/Sorting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recursion dsa/StringRecurssion/StringRecurssion.iml" filepath="$PROJECT_DIR$/recursion dsa/StringRecurssion/StringRecurssion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stringss/Stringss.iml" filepath="$PROJECT_DIR$/Stringss/Stringss.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/dsa.iml" filepath="$PROJECT_DIR$/.idea/dsa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recursion dsa/recursion dsa.iml" filepath="$PROJECT_DIR$/recursion dsa/recursion dsa.iml" />
+    </modules>
+  </component>
+</project>
